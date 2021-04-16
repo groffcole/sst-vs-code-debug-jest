@@ -1,0 +1,7 @@
+{
+  "name": "sst-vs-code-debug-jest",
+  "stage": "dev",
+  "region": "us-east-1",
+  "lint": true,
+  "typeCheck": true
+}
